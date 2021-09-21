@@ -1,0 +1,1 @@
+<view><song-data-picker vue-id="8dd740cc-1" localdata="{{items}}" popup-title="请选择班级" openSearch="{{true}}" data-event-opts="{{[['^change',[['onchange']]],['^nodeclick',[['onnodeclick']]]]}}" bind:change="__e" bind:nodeclick="__e" bind:__l="__l"></song-data-picker><button data-event-opts="{{[['tap',[['inp']]]]}}" bindtap="__e">Click</button></view>

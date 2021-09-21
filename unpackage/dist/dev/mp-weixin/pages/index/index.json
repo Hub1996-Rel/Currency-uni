@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "uni-app",
+  "usingComponents": {
+    "song-data-picker": "/components/song-data-picker/song-data-picker"
+  }
+}
